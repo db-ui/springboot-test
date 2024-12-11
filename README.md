@@ -1,6 +1,6 @@
 # SpringBoot + DBUX
 
-This is a simple example how to use DBUX npm libraries with SpringBoot.
+This is a simple example how to use DB UX npm libraries with SpringBoot.
 
 You need to add npm packages to [webjars](https://www.webjars.org/) via "Add web jar" button:
 ![img.png](img.png)
