@@ -31,12 +31,12 @@
         </dependency>
         <dependency>
             <groupId>org.webjars.npm</groupId>
-            <artifactId>db-ui__foundations</artifactId>
+            <artifactId>db-ux__core-foundations</artifactId>
             <version>0.4.4</version>
         </dependency>
         <dependency>
             <groupId>org.webjars.npm</groupId>
-            <artifactId>db-ui__components</artifactId>
+            <artifactId>db-ux__core-components</artifactId>
             <version>0.4.4</version>
         </dependency>
         <dependency>
